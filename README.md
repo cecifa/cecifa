@@ -26,7 +26,7 @@ Passionate about turning raw data into actionable insights and expanding into pr
 
 | | |
 |---|---|
-| **Languages** | Python · SQL |
+| **Languages** | Python · SQL · R |
 | **Databases** | SQL Server |
 | **Visualization** | Power BI · Matplotlib |
 | **Data science** | Pandas · NumPy · Scikit-learn · Jupyter |
